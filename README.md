@@ -39,7 +39,7 @@ because *wrong data = wrong patient outcomes.*
 | 1 | [Hospital Readmissions Analysis](https://github.com/pgarlap/hospital-readmissions-cms-sql) | SQL · Python  | CMS dataset analysis uncovering readmission patterns |
 | 2 | [FHIR ETL Pipeline](https://github.com/pgarlap/fhir-etl-pipeline) | Python · FHIR · HL7 | End-to-end ETL pipeline - FHIR APIs, SNOMED CT mapping, HL7 v2 generation |
 | 3 | [HINTS Path Analysis](https://github.com/pgarlap/hints-physical-activity-path-analysis) | R · lavaan ·SQL · PowerBI  | Path analysis of HBM constructs predicting physical activity (N=6,590) |
-| 4 | [CKM Physical Activity Study](https://github.com/pgarlap/ckm-physical-activity-study) | R · REDCap · Excel | Active clinical study — 50 enrolled, accelerometer + survey data collection |
+| 4 | [CKM Physical Activity Study](https://github.com/pgarlap/ckm-physical-activity-study) | R · REDCap · Excel | Active clinical study - 50 enrolled, accelerometer + survey data collection |
 ---
 
 ## 📜 Certifications
