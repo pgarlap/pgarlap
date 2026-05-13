@@ -36,8 +36,8 @@ because *wrong data = wrong patient outcomes.*
 
 | # | Project | Tools | Description |
 |---|---|---|---|
-| 1 | [Hospital Readmissions Analysis](https://github.com/pgarlap/hospital-readmissions-cms-sql) | SQL · SQLite | SQL analysis of 18,331 CMS hospital records — readmission patterns across 50 states |
-| 2 | [FHIR ETL Pipeline](https://github.com/pgarlap/fhir-etl-pipeline) | Python · FHIR · HL7 | End-to-end ETL pipeline — FHIR APIs, SNOMED CT mapping, HL7 v2 generation |
+| 1 | [Hospital Readmissions Analysis](https://github.com/pgarlap/hospital-readmissions-cms-sql) | SQL · SQLite | SQL analysis of 18,331 CMS hospital records - readmission patterns across 50 states |
+| 2 | [FHIR ETL Pipeline](https://github.com/pgarlap/fhir-etl-pipeline) | Python · FHIR · HL7 | End-to-end ETL pipeline - FHIR APIs, SNOMED CT mapping, HL7 v2 generation |
 | 3 | [HINTS Path Analysis](https://github.com/pgarlap/hints-physical-activity-path-analysis) | R · lavaan | Path analysis of HBM constructs predicting physical activity (N=6,590) |
 
 ---
