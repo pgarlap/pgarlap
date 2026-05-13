@@ -1,16 +1,16 @@
 # Hey, I'm Poojitha! 👩‍💊 → 📊
 
-> *From prescribing medications to prescribing data solutions — I bring a clinician's eye to every dataset I touch.*
+> *From prescribing medications to prescribing data solutions - I bring a clinician's eye to every dataset I touch.*
 
-I'm a **Doctor of Pharmacy turned Data Analyst** — which means I don't just clean data, I understand *why* that patient readmission metric matters, *what* that drug code means, and *who* is affected when the numbers are wrong.
+I'm a **Doctor of Pharmacy turned Data Analyst** - which means I don't just clean data, I understand *why* that patient readmission metric matters, *what* that drug code means, and *who* is affected when the numbers are wrong.
 
-I recently completed my **M.S. in Health Informatics @ Indiana University Indianapolis** while working as a **Research Data Analyst at IU School of Health & Human Sciences** — building real dashboards for real research teams, not toy datasets.
+I recently completed my **M.S. in Health Informatics @ Indiana University Indianapolis** while working as a **Research Data Analyst at IU School of Health & Human Sciences** - building real dashboards for real research teams, not toy datasets.
 
 ---
 
 ## 🧠 My Unfair Advantage
 
-Most data analysts learn healthcare from the outside. I lived it for 6 years as a pharmacist — that's 6 years of reading ICD-10 codes, understanding drug-drug interactions, and caring about data accuracy because *wrong data = wrong patient outcomes.*
+Most data analysts learn healthcare from the outside. I lived it for 6 years as a pharmacist - that's 6 years of reading ICD-10 codes, understanding drug-drug interactions, and caring about data accuracy because *wrong data = wrong patient outcomes.*
 
 ---
 
