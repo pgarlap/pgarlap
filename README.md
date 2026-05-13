@@ -1,16 +1,25 @@
 # Hey, I'm Poojitha! 👩‍💊 → 📊
 
-> *From prescribing medications to prescribing data solutions - I bring a clinician's eye to every dataset I touch.*
+> *From prescribing medications to prescribing data solutions — 
+> I bring a clinician's eye to every dataset I touch.*
 
-I'm a **Doctor of Pharmacy turned Data Analyst** - which means I don't just clean data, I understand *why* that patient readmission metric matters, *what* that drug code means, and *who* is affected when the numbers are wrong.
+I'm a **Doctor of Pharmacy turned Data Analyst** — which means 
+I don't just clean data, I understand *why* that patient readmission 
+metric matters, *what* that drug code means, and *who* is affected 
+when the numbers are wrong.
 
-I recently completed my **M.S. in Health Informatics @ Indiana University Indianapolis** while working as a **Research Data Analyst at IU School of Health & Human Sciences** - building real dashboards for real research teams, not toy datasets.
+I recently completed my **M.S. in Health Informatics @ Indiana 
+University Indianapolis** while working as a **Research Data Analyst 
+at IU School of Health & Human Sciences**.
 
 ---
 
 ## 🧠 My Unfair Advantage
 
-Most data analysts learn healthcare from the outside. I lived it for 6 years as a pharmacist - that's 6 years of reading ICD-10 codes, understanding drug-drug interactions, and caring about data accuracy because *wrong data = wrong patient outcomes.*
+Most data analysts learn healthcare from the outside. I lived it 
+for 6 years as a pharmacist — that's 6 years of reading ICD-10 codes, 
+understanding drug-drug interactions, and caring about data accuracy 
+because *wrong data = wrong patient outcomes.*
 
 ---
 
@@ -19,16 +28,32 @@ Most data analysts learn healthcare from the outside. I lived it for 6 years as 
 **Languages:** SQL · Python · R  
 **Visualization:** Power BI · Tableau · Excel  
 **Healthcare Standards:** FHIR · HL7 · ICD-10 · SNOMED CT · REDCap  
-**Research:** IRB Compliance · HIPAA · Statistical Analysis · Clinical Data Management
+**Research:** IRB Compliance · HIPAA · Statistical Analysis · lavaan
 
 ---
 
 ## 📂 Projects
 
-| Project | Tools | Description |
-|---|---|---|
-| Coming soon | SQL · Python | Healthcare dataset analysis |
-| Coming soon | Power BI | Clinical dashboard |
+| # | Project | Tools | Description |
+|---|---|---|---|
+| 1 | [Hospital Readmissions Analysis](https://github.com/pgarlap/hospital-readmissions-cms-sql) | SQL · SQLite | SQL analysis of 18,331 CMS hospital records — readmission patterns across 50 states |
+| 2 | [FHIR ETL Pipeline](https://github.com/pgarlap/fhir-etl-pipeline) | Python · FHIR · HL7 | End-to-end ETL pipeline — FHIR APIs, SNOMED CT mapping, HL7 v2 generation |
+| 3 | [HINTS Path Analysis](https://github.com/pgarlap/hints-physical-activity-path-analysis) | R · lavaan | Path analysis of HBM constructs predicting physical activity (N=6,590) |
+
+---
+
+## 📜 Certifications
+
+🏅 **Google Data Analytics** - Coursera  
+🏅 **CITI Human Research** - Social/Behavioral & Biomedical  
+🏅 **GCP Clinical Research** - CITI
+
+---
+
+## ⚡ Fun fact
+
+I can spot a data quality issue *and* tell you which enzyme pathway 
+that drug affects. Not many analysts can say that.
 
 ---
 
@@ -39,4 +64,5 @@ Most data analysts learn healthcare from the outside. I lived it for 6 years as 
 
 ---
 
-*📍 Indianapolis, IN · Open to Data Analyst & CRC roles · Open to relocation*
+*📍 Indianapolis, IN · Open to Data Analyst & CRC roles · 
+Open to relocation*
